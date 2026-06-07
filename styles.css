@@ -129,7 +129,7 @@ display:flex;
 align-items:center;
 
 background:
-url(“https://images.unsplash.com/photo-1505693416388-ac5ce068fe85”)
+url(“./assets/images/living_room_1.png”)
 center center/cover no-repeat;
 
 }
@@ -409,7 +409,7 @@ justify-content:center;
 align-items:center;
 
 background:
-url(“https://images.unsplash.com/photo-1441974231531-c6227db76b6e”)
+url(“./assets/images/nature.png”)
 center center/cover no-repeat;
 
 }
